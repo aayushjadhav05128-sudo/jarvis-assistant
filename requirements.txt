@@ -1,0 +1,24 @@
+# Core Audio Acquisition & DSP
+pyaudio>=0.2.14
+sounddevice>=0.5.1
+numpy>=1.26.0
+
+# Speech-to-Text & Wake Word
+faster-whisper>=1.1.0
+SpeechRecognition>=3.14.0
+
+# Windows System Telemetry & Automation
+psutil>=5.9.8
+pypiwin32>=223
+pywin32>=306
+
+# Text-to-Speech (Zero-latency Windows SAPI5)
+pyttsx3>=2.90
+
+# Networking & HTTP LLM Integration
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Optional Neural TTS & Wake Word Backends
+# openwakeword>=0.6.0
+# edge-tts>=6.1.19
